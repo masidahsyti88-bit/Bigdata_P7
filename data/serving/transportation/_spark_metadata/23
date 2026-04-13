@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00000-6f904dfd-8bbb-402b-bcb9-cf788d4db9ed-c000.snappy.parquet","size":1901,"isDir":false,"modificationTime":1774966042416,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00001-2260977e-241c-42c1-b793-fc5c6b6efc82-c000.snappy.parquet","size":1887,"isDir":false,"modificationTime":1774966042416,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00002-d66f227b-5393-4c58-96e4-4d7766f4c555-c000.snappy.parquet","size":1874,"isDir":false,"modificationTime":1774966042416,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00003-5aca2d6e-92b4-46fc-971c-2f705481cfe0-c000.snappy.parquet","size":1866,"isDir":false,"modificationTime":1774966042416,"blockReplication":1,"blockSize":33554432,"action":"add"}

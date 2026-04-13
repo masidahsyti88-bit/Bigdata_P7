@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00000-3b329584-e572-4f29-80dc-a12827e8442a-c000.snappy.parquet","size":1867,"isDir":false,"modificationTime":1774966053808,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00001-d52da222-1a93-44c3-af19-9ceaf0290e22-c000.snappy.parquet","size":1860,"isDir":false,"modificationTime":1774966053808,"blockReplication":1,"blockSize":33554432,"action":"add"}

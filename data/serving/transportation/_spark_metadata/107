@@ -1,0 +1,7 @@
+v1
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00000-f3f949b9-8e91-47ed-bd17-f7140fe330a2-c000.snappy.parquet","size":1900,"isDir":false,"modificationTime":1774966071060,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00001-d4e171f1-ed8d-4063-9db0-27c2a3f4b0f6-c000.snappy.parquet","size":1851,"isDir":false,"modificationTime":1774966071040,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00002-bab09fd0-afe6-4492-95b4-c1071e318167-c000.snappy.parquet","size":1859,"isDir":false,"modificationTime":1774966071052,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00003-2c772ce1-2e8b-4b96-b66c-21be8f175c00-c000.snappy.parquet","size":1859,"isDir":false,"modificationTime":1774966071048,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00004-473a5026-e64b-416d-b092-361549731446-c000.snappy.parquet","size":1845,"isDir":false,"modificationTime":1774966071048,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/masidah/bigdata-project/data/serving/transportation/part-00005-6e9ca0ca-89a7-4674-a99c-76c508e2a807-c000.snappy.parquet","size":1824,"isDir":false,"modificationTime":1774966071048,"blockReplication":1,"blockSize":33554432,"action":"add"}
